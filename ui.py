@@ -21,7 +21,6 @@ class QuizInterface:
             150,
             125,
             width= 280,
-            text="Blah gui program booring.",
             fill=THEME_COLOR,
             font=("Arial", 20, "italic")
         )
